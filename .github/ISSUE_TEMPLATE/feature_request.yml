@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest an improvement or gameplay feature.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to improve?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested behavior
+      description: Explain how it would work for the host and other players.
+    validations:
+      required: true

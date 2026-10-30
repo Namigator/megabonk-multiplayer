@@ -1,0 +1,7 @@
+*.log
+*.pdb
+UserData/
+MelonLoader/
+BotSaves/
+.env
+*.dmp
