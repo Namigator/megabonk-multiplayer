@@ -1,8 +1,10 @@
 # MegaBonk Multiplayer — Multibonk
 
+![Multibonk — wizard Fox and Calcium](assets/brand/multibonk-wordmark.png)
+
 Community co-op for MegaBonk using MelonLoader. This is an unofficial mod, not an official multiplayer update.
 
-**[Download the latest release](https://github.com/Namigator/megabonk-multiplayer/releases/latest)** · **[All versions](https://github.com/Namigator/megabonk-multiplayer/releases)** · **[Report a bug](https://github.com/Namigator/megabonk-multiplayer/issues/new/choose)**
+**[Website](https://multibonk.xpo-development.workers.dev/)** · **[Email a private bug report](https://multibonk.xpo-development.workers.dev/#bugs)** · **[Download the latest release](https://github.com/Namigator/megabonk-multiplayer/releases/latest)** · **[All versions](https://github.com/Namigator/megabonk-multiplayer/releases)** · **[Report a bug](https://github.com/Namigator/megabonk-multiplayer/issues/new/choose)**
 
 Current release: **v0.2.5 · network protocol 111**. Every player must install the same release and game version.
 
@@ -108,3 +110,7 @@ Anyone with a GitHub account can [open an issue](https://github.com/Namigator/me
 - [Co-op Anything](https://github.com/cranebeaker/coop-anything) was used for development testing; its bot toolkit is not required or bundled in this player release.
 
 The mod is distributed under the included [MIT license](LICENSE). MegaBonk game files, decompiled game source and loader binaries are excluded.
+
+## Branding
+
+The website and package feature original AI-generated fan illustrations of wizard Fox and Calcium, created with OpenAI’s built-in image-generation tool using character references. MegaBonk characters and trademarks belong to their respective owners. This is an unofficial project. New branding changes neither the published v0.2.5 gameplay DLL nor protocol111. The prepared Thunderstore0.2.6 package contains that same DLL.
