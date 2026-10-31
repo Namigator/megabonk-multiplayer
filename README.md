@@ -4,7 +4,7 @@
 
 Community co-op for MegaBonk using MelonLoader. This is an unofficial mod, not an official multiplayer update.
 
-**[Website](https://multibonk.xpo-development.workers.dev/)** · **[Email a private bug report](https://multibonk.xpo-development.workers.dev/#bugs)** · **[Download the latest release](https://github.com/Namigator/megabonk-multiplayer/releases/latest)** · **[All versions](https://github.com/Namigator/megabonk-multiplayer/releases)** · **[Report a bug](https://github.com/Namigator/megabonk-multiplayer/issues/new/choose)**
+**[Website](https://multibonk.ludix.gg/)** · **[Email a private bug report](https://multibonk.ludix.gg/#bugs)** · **[Download the latest release](https://github.com/Namigator/megabonk-multiplayer/releases/latest)** · **[All versions](https://github.com/Namigator/megabonk-multiplayer/releases)** · **[Report a bug](https://github.com/Namigator/megabonk-multiplayer/issues/new/choose)**
 
 Current release: **v0.2.5 · network protocol 111**. Every player must install the same release and game version.
 
