@@ -114,3 +114,7 @@ The mod is distributed under the included [MIT license](LICENSE). MegaBonk game 
 ## Branding
 
 The website and package feature original AI-generated fan illustrations of wizard Fox and Calcium, created with OpenAI’s built-in image-generation tool using character references. MegaBonk characters and trademarks belong to their respective owners. This is an unofficial project. New branding changes neither the published v0.2.5 gameplay DLL nor protocol111. The prepared Thunderstore0.2.6 package contains that same DLL.
+
+## Privacy, cookies and terms
+
+Read the [privacy notice](https://multibonk.ludix.gg/privacy/), [cookie notice](https://multibonk.ludix.gg/cookies/) and [website/mod terms](https://multibonk.ludix.gg/terms/). The MIT License remains the mod license. The current released DLL uses your Windows account username as the lobby name, shares it with the party, and can include names/connection details in local logs. See [privacy details](docs/PRIVACY.md) before sharing logs or joining untrusted hosts. [Privacy requests](https://multibonk.ludix.gg/#privacy-request) are sent privately through the site, not public GitHub issues.
